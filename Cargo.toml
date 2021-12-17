@@ -1,0 +1,14 @@
+[package]
+name = "rsource-cli"
+version = "0.0.0"
+edition = "2021"
+authors = ["insyri"]
+description = "A fast CLI to fetch organized contents from both the StrafesNET API and the rsource databases."
+homepage = "https://github.com/rsource-open-source/rsource-cli/"
+repository = "https://github.com/rsource-open-source/rsource-cli/" 
+documentation = "https://github.com/rsource-open-source/rsource-cli/wiki/"
+readme = "README.md"
+license-file = "LICENSE"
+publish = ["rsource-cli"]
+
+[dependencies]
